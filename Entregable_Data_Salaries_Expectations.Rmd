@@ -30,6 +30,7 @@ salary_USA = df$salary_in_usd
 remote_ratio = df$remote_ratio
 ```
 
+
 ## Medidas de tendencia central y Medidas de dispersión.
 
 Para las medidas de tendencia de cada una de estas variables, vamos a sacar el promedio, la mediana, y la moda.
